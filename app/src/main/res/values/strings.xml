@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Order Tracking</string>
+    <string name="track_order">Track Order</string>
+    <string name="cancel">Cancel</string>
+    <string name="estimated_time">Estimated Time</string>
+    <string name="order_number">Order Number</string>
+    <string name="_30_minutes">30 Minutes</string>
+    <string name="order_number_value">#C862996</string>
+    <string name="order_placed">Order Placed</string>
+    <string name="we_have_recieved_your_order">We have recieved your order</string>
+</resources>
